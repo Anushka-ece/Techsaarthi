@@ -14,7 +14,7 @@
 
 
 .hero-image {
-    background-image: url("/images/image.jpg");
+    background-image: url("images/image.jpg");
     background-color: #cccccc;
     height: calc(100vh - 56px - 56px);
     background-repeat: no-repeat;
@@ -198,6 +198,6 @@
     .ftr {
         width: 100vw;
         padding: 0rem 1rem;
-        font-size: 0.5rem;
+        font-size: 0.8rem;
     }
 }
