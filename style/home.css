@@ -14,7 +14,7 @@
 
 
 .hero-image {
-    background-image: url(https://raw.githubusercontent.com/prajeshElEvEn/Techsaarthi/main/images/image.jpg);
+    background-image: url("../images/image.jpg");
     /* background-color: #cccccc; */
     height: calc(100vh - 56px - 56px);
     background-repeat: no-repeat;
